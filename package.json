@@ -1,0 +1,19 @@
+{
+  "name": "pixi-infinite-gallery",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^3.0.0"
+  },
+  "dependencies": {
+    "@pixi/filter-bulge-pinch": "^4.1.5",
+    "gsap": "^3.10.4",
+    "pixi.js": "^6.4.2"
+  }
+}
